@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327483e7-d643-4f62-9c03-6efa04e8e06f" name="Default Changelist" comment="" />
+    <list default="true" id="327483e7-d643-4f62-9c03-6efa04e8e06f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iQN5gqVb5PzGyA1mO1CGizNfJY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +54,14 @@
       <screen x="0" y="23" width="1680" height="985" />
     </state>
     <state x="328" y="97" key="#Project_Structure/-461.-1417.2560.1417/0.23.1680.985@0.23.1680.985" timestamp="1601835712744" />
+    <state x="581" y="-815" width="513" height="192" key="Github.ShareDialog" timestamp="1601836910966">
+      <screen x="-461" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="581" y="-815" width="513" height="192" key="Github.ShareDialog/-461.-1417.2560.1417/0.23.1680.985@-461.-1417.2560.1417" timestamp="1601836910966" />
+    <state x="503" y="-1007" key="Github.UntrackedFilesDialog" timestamp="1601836920419">
+      <screen x="-461" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="503" y="-1007" key="Github.UntrackedFilesDialog/-461.-1417.2560.1417/0.23.1680.985@-461.-1417.2560.1417" timestamp="1601836920419" />
     <state x="39" y="-1311" key="SettingsEditor" timestamp="1601836641128">
       <screen x="-461" y="-1417" width="2560" height="1417" />
     </state>
